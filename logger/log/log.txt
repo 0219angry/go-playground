@@ -1,0 +1,3 @@
+{"time":"2024-07-23T14:39:17.857430803+09:00","level":"INFO","msg":"Countup!","name":"Counter2","count":1}
+{"time":"2024-07-23T14:39:17.857432703+09:00","level":"INFO","msg":"Countup!","name":"Counter2","count":2}
+{"time":"2024-07-23T14:39:17.857428203+09:00","level":"INFO","msg":"Countup!","name":"Counter1","count":3}
